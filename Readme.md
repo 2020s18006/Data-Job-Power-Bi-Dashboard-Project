@@ -45,4 +45,4 @@ An **interactive data analytics dashboard** that provides comprehensive insights
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/data-jobs-dashboard.git
+   git clone https://github.com/2020s18006/Data-Job-Power-Bi-Dashboard-Project.git
